@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-jta/springboot-jta.iml" filepath="$PROJECT_DIR$/springboot-jta/springboot-jta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-multisource/springboot-multisource.iml" filepath="$PROJECT_DIR$/springboot-multisource/springboot-multisource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-parent.iml" filepath="$PROJECT_DIR$/springboot-parent.iml" />
+    </modules>
+  </component>
+</project>
